@@ -1,2 +1,2 @@
-This is the Coffe Shop Website using Reactjs.
+This is the Coffe Shop Website using Reactjs...
 ## Coffee-shop-website ##
