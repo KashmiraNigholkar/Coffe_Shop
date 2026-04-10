@@ -1,6 +1,4 @@
-import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-
+import React, { useState } from "react";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import Menu from "./components/Menu";
@@ -11,45 +9,25 @@ import Footer from "./components/Footer";
 import Login from "./components/Login";
 
 const App = () => {
+  const [showLogin, setShowLogin] = useState(false);
+
   return (
-    <Router>
-      <Navbar />
+    <div>
+      <Navbar setShowLogin={setShowLogin} />
 
-      <Routes>
-        {/* Login Page */}
-        <Route path="/login" element={<Login />} />
+      {/* Popup */}
+      {showLogin && <Login setShowLogin={setShowLogin} />}
 
-        {/* Main Home Page */}
-        <Route
-          path="/"
-          element={
-            <main>
-              <div id="home">
-                <Home />
-              </div>
-
-              <div id="menu">
-                <Menu />
-              </div>
-
-              <div id="about">
-                <About />
-              </div>
-
-              <div id="products">
-                <Product />
-              </div>
-
-              <div id="review">
-                <Review />
-              </div>
-            </main>
-          }
-        />
-      </Routes>
+      <main>
+        <Home />
+        <Menu />
+        <About />
+        <Product />
+        <Review />
+      </main>
 
       <Footer />
-    </Router>
+    </div>
   );
 };
 
