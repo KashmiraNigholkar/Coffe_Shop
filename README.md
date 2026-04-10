@@ -1,4 +1,4 @@
-### ☕ CafePulse – Smart Coffee Experience
+# ☕ CafePulse – Smart Coffee Experience
 
 ⚡ Feel the Pulse of Every Sip
 💻 Where coffee meets technology
