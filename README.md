@@ -3,17 +3,17 @@
 ⚡ Feel the Pulse of Every Sip
 💻 Where coffee meets technology
 
-🌐 Live Demo:
+## 🌐 Live Demo:
 
 🔗 https://coffe-shop-drab.vercel.app/
 
-📖 About the Project
+## 📖 About the Project
 
 CafePulse is a modern coffee shop web application designed to deliver a smooth and engaging digital café experience.
 
 It combines clean UI, fast performance, and interactive features to simulate a real-world coffee ordering system.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack:
 💻 Frontend: React.js
 ⚙️ Backend: Node.js / Express (optional)
 🗄️ Database: MongoDB (optional)
@@ -35,18 +35,18 @@ It combines clean UI, fast performance, and interactive features to simulate a r
 
 <img width="1917" height="982" alt="Screenshot 2026-04-10 213841" src="https://github.com/user-attachments/assets/6e80b7ec-4c0c-40ef-b0c0-1e9cf0b36d64" />
 
-💡 What Makes CafePulse Unique?
+## 💡 What Makes CafePulse Unique?
 ⚡ “Pulse” theme – fast & dynamic UI
 🧩 Interactive login popup
 🌸 Clean & aesthetic layout
 🚀 Beginner-friendly & scalable
 ⚙️ Installation
-git clone https://github.com/KashmiraNigholkar/Coffe_Shop.git
+## git clone https://github.com/KashmiraNigholkar/Coffe_Shop.git
 cd Coffe_Shop
 npm install
 npm start
 
-📊 Project Status
+## 📊 Project Status
 
 🚧 Developing 🧠⚡
 📈 Growing & improving continuously 🚀
