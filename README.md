@@ -18,7 +18,7 @@
 #### ⚙️ Backend: Node.js / Express (optional)
 #### 🗄️ Database: MongoDB (optional)
 #### 🎨 Styling: CSS / Tailwind
-#### ✨ Features
+## ✨ Features
 #### ☕ Explore coffee menu
 #### 🛒 Add to cart (optional)
 #### 🔐 Login / Signup popup modal
