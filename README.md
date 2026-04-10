@@ -26,7 +26,7 @@
 #### ⚡ Smooth user experience
 #### 🎯 Modern UI design
 
-### 📸 Screenshots:
+## 📸 Screenshots:
 <img width="1912" height="984" alt="Screenshot 2026-04-10 213641" src="https://github.com/user-attachments/assets/68183bd3-f767-4568-a70c-3267c442705e" />
 
 <img width="1890" height="984" alt="Screenshot 2026-04-10 213727" src="https://github.com/user-attachments/assets/2171ba64-e755-40ad-80d4-48cd1600a46d" />
