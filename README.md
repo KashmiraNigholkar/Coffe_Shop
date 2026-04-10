@@ -1,7 +1,7 @@
 # ☕ CafePulse – Smart Coffee Experience
 
-⚡ Feel the Pulse of Every Sip
-💻 Where coffee meets technology
+#### ⚡ Feel the Pulse of Every Sip
+#### 💻 Where coffee meets technology
 
 ## 🌐 Live Demo:
 
@@ -9,22 +9,22 @@
 
 ## 📖 About the Project
 
-CafePulse is a modern coffee shop web application designed to deliver a smooth and engaging digital café experience.
+#### CafePulse is a modern coffee shop web application designed to deliver a smooth and engaging digital café experience.
 
-It combines clean UI, fast performance, and interactive features to simulate a real-world coffee ordering system.
+#### It combines clean UI, fast performance, and interactive features to simulate a real-world coffee ordering system.
 
 ## 🛠️ Tech Stack:
-💻 Frontend: React.js
-⚙️ Backend: Node.js / Express (optional)
-🗄️ Database: MongoDB (optional)
-🎨 Styling: CSS / Tailwind
-✨ Features
-☕ Explore coffee menu
-🛒 Add to cart (optional)
-🔐 Login / Signup popup modal
-📱 Fully responsive design
-⚡ Smooth user experience
-🎯 Modern UI design
+#### 💻 Frontend: React.js
+#### ⚙️ Backend: Node.js / Express (optional)
+#### 🗄️ Database: MongoDB (optional)
+#### 🎨 Styling: CSS / Tailwind
+#### ✨ Features
+#### ☕ Explore coffee menu
+#### 🛒 Add to cart (optional)
+#### 🔐 Login / Signup popup modal
+#### 📱 Fully responsive design
+#### ⚡ Smooth user experience
+#### 🎯 Modern UI design
 
 ### 📸 Screenshots:
 <img width="1912" height="984" alt="Screenshot 2026-04-10 213641" src="https://github.com/user-attachments/assets/68183bd3-f767-4568-a70c-3267c442705e" />
@@ -42,9 +42,9 @@ It combines clean UI, fast performance, and interactive features to simulate a r
 🚀 Beginner-friendly & scalable
 ⚙️ Installation
 ## git clone https://github.com/KashmiraNigholkar/Coffe_Shop.git
-cd Coffe_Shop
-npm install
-npm start
+#### cd Coffe_Shop
+#### npm install
+#### npm start
 
 ## 📊 Project Status
 
